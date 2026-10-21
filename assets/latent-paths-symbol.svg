@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Latent Paths symbol">
+  <title>Latent Paths symbol</title>
+  <g fill="none" stroke="#17252C" stroke-width="8.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M17 78 C39 66 65 58 79 43 C89 32 90 25 92 20"/>
+    <path d="M17 78 C43 65 73 65 105 65"/>
+    <path d="M17 78 C45 74 75 84 92 110"/>
+  </g>
+  <g fill="#17252C">
+    <circle cx="92" cy="20" r="9.2"/>
+    <circle cx="105" cy="65" r="9.2"/>
+    <circle cx="92" cy="110" r="9.2"/>
+  </g>
+</svg>
