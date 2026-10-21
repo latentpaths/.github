@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.latentpaths.com/"><img src="https://raw.githubusercontent.com/latentpaths/.github/main/assets/latent-paths-wordmark.png" alt="Latent Paths" width="365"></a>
+  <a href="https://www.latentpaths.com/"><img src="https://raw.githubusercontent.com/latentpaths/.github/main/assets/latent-paths-wordmark-cream.png" alt="Latent Paths" width="365"></a>
 </p>
 
 Research and experiments in world models, reinforcement learning, and AI for science by [Ayush Bodade / stochi](https://github.com/stochi0).
