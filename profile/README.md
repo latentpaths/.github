@@ -10,5 +10,5 @@ Research and experiments in world models, reinforcement learning, and AI for sci
 
 - [Budgeted Predictive Knowledge](https://github.com/latentpaths/budgeted-predictive-knowledge) — Selecting which stored predictions to refresh under a limited update budget. [Project and paper](https://latentpaths.com/projects/budgeted-predictive-knowledge).
 - [Intervention Search and Response Prediction](https://github.com/latentpaths/intervention-search-response-prediction) — Measuring intervention search and held-out response prediction separately under an assay budget. [Project and paper](https://latentpaths.com/projects/intervention-search-response-prediction).
-- [Undertow](https://github.com/latentpaths/undertow) — Hidden, stateful environments for comparing native and programmatic tool calling. [Writeup](https://latentpaths.com/writings/undertow).
+- [Statecraft](https://github.com/latentpaths/statecraft) — Hidden, stateful environments for comparing native and programmatic tool calling. [Writeup](https://latentpaths.com/writings/statecraft).
 - [Sparse Signal Loop](https://github.com/latentpaths/sparse-signal-loop) — Experiments on feedback, working memory, and reusable skills for LLM agents. [Writeup](https://latentpaths.com/writings/sparse-signal-loop).
