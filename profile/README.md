@@ -8,6 +8,7 @@ Research and experiments in world models, reinforcement learning, and AI for sci
 
 ## Research
 
+- [Policy Surgery](https://github.com/latentpaths/policy-surgery) — GPT-OSS edits a pretrained RL policy’s weights to adapt to changed dynamics. [Article and demos](https://www.latentpaths.com/writings/policy-surgery).
 - [Budgeted Predictive Knowledge](https://github.com/latentpaths/budgeted-predictive-knowledge) — Selecting which stored predictions to refresh under a limited update budget. [Project and paper](https://latentpaths.com/projects/budgeted-predictive-knowledge).
 - [Intervention Search and Response Prediction](https://github.com/latentpaths/intervention-search-response-prediction) — Measuring intervention search and held-out response prediction separately under an assay budget. [Project and paper](https://latentpaths.com/projects/intervention-search-response-prediction).
 - [Statecraft](https://github.com/latentpaths/statecraft) — Hidden, stateful environments for comparing native and programmatic tool calling. [Writeup](https://latentpaths.com/writings/statecraft).
