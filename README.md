@@ -9,3 +9,11 @@ Maintains the [Latent Paths organization profile](profile/README.md) and shared 
 `assets/` contains the supplied symbol and wordmark as editable SVG sources and PNG exports. Keep each SVG and its export together. Link to these files from other repositories rather than maintaining competing logo copies.
 
 The organization avatar uses `assets/latent-paths-symbol.png`; README headers use `assets/latent-paths-wordmark.png`.
+
+## Profile content
+
+The managed work block in `profile/README.md` comes from the website catalog:
+Latest work, Papers, and research Writings. Update it with the website's
+[profile sync command](https://github.com/latentpaths/website/blob/main/src/content/README.md#verify-and-publish),
+then review, commit, and push this repository. Keep the masthead and introduction
+authored here; keep project descriptions and destinations in the website sources.
