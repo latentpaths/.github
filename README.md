@@ -17,5 +17,3 @@ Latest work, Papers, and research Writings. Update it with the website's
 [profile sync command](https://github.com/latentpaths/website/blob/main/src/content/README.md#verify-and-publish),
 then review, commit, and push this repository. Keep the masthead and introduction
 authored here; keep project descriptions and destinations in the website sources.
-
-[Citation guide](CITATION.md) · [BibTeX](CITATION.bib)
