@@ -4,7 +4,7 @@
 
 Research and experiments in world models, reinforcement learning, and AI for science by [Ayush Bodade / stochi](https://github.com/stochi0).
 
-[Website](https://www.latentpaths.com/) · [Papers](https://www.latentpaths.com/publications) · [Writings](https://www.latentpaths.com/writings) · [Email](mailto:ayush@latentpaths.com)
+[Website](https://www.latentpaths.com/) · [Papers](https://www.latentpaths.com/#papers) · [Writings](https://www.latentpaths.com/#notes) · [Email](mailto:ayush@latentpaths.com)
 
 <!-- BEGIN website projects -->
 ## Latest work
