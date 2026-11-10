@@ -18,10 +18,6 @@ Papers and research Writings, with each output listed once. Update it with the w
 then review, commit, and push this repository. Keep the masthead and introduction
 authored here; keep project descriptions and destinations in the website sources.
 
-## Citation
-
 <!-- BEGIN generated citations -->
-
-Citation metadata matches the [ORCID record](https://orcid.org/0009-0007-2252-8905). [Complete bibliography](https://www.latentpaths.com/citations/all.bib).
 
 <!-- END generated citations -->
