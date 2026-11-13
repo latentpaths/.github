@@ -10,8 +10,8 @@ Research and experiments in world models, reinforcement learning, and AI for sci
 
 ## Papers
 
-- [Intervention Search & Response Prediction](https://github.com/latentpaths/intervention-search-response-prediction/blob/main/paper.pdf) — Does finding a successful intervention show that an agent can predict interventions it has not tried? AgenticLS · NeurIPS 2026 workshop · Accepted spotlight.
-- [Budgeted Predictive Knowledge](https://github.com/latentpaths/budgeted-predictive-knowledge/blob/main/paper.pdf) — When an agent’s stored predictions become stale, which ones should receive fresh evidence first? NEmo · NeurIPS 2026 workshop · Accepted poster.
+- [Intervention Search & Response Prediction](https://doi.org/10.5281/zenodo.24196492) — Does finding a successful intervention show that an agent can predict interventions it has not tried? AgenticLS · NeurIPS 2026 workshop · Accepted spotlight.
+- [Budgeted Predictive Knowledge](https://doi.org/10.5281/zenodo.24196447) — When an agent’s stored predictions become stale, which ones should receive fresh evidence first? NEmo · NeurIPS 2026 workshop · Accepted poster.
 
 ## Writings
 
