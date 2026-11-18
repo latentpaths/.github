@@ -10,8 +10,8 @@ Research and experiments in world models, reinforcement learning, and AI for sci
 
 ## Papers
 
-- [Intervention Search & Response Prediction](https://doi.org/10.5281/zenodo.24196492) — Does finding a successful intervention show that an agent can predict interventions it has not tried? AgenticLS · NeurIPS 2026 workshop · Accepted spotlight.
-- [Budgeted Predictive Knowledge](https://doi.org/10.5281/zenodo.24196447) — When an agent’s stored predictions become stale, which ones should receive fresh evidence first? NEmo · NeurIPS 2026 workshop · Accepted poster.
+- [Intervention Search & Response Prediction](https://doi.org/10.5281/zenodo.24196492) — An agent found an intervention that worked. Could it predict what would happen with one it hadn’t tried? AgenticLS · NeurIPS 2026 workshop · Accepted spotlight.
+- [Budgeted Predictive Knowledge](https://doi.org/10.5281/zenodo.24196447) — When the world changes and an agent can only recheck a few predictions, which should it check first? NEmo · NeurIPS 2026 workshop · Accepted poster.
 
 ## Writings
 
