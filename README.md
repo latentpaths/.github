@@ -1,8 +1,8 @@
 # Latent Paths GitHub profile
 
-Maintains the [Latent Paths organization profile](profile/README.md) and shared brand assets used by the organization’s repositories.
+Maintains the [Profile](profile/README.md) and shared brand assets used by the organization’s repositories.
 
-[Website](https://www.latentpaths.com/) · [GitHub organization](https://github.com/latentpaths) · [Contact](mailto:ayush@latentpaths.com)
+[Website](https://www.latentpaths.com/) · [GitHub](https://github.com/latentpaths) · [Contact](mailto:ayush@latentpaths.com)
 
 ## Assets
 
@@ -14,7 +14,7 @@ The organization avatar uses `assets/latent-paths-symbol.png`; README headers us
 
 The managed work block in `profile/README.md` comes from the website catalog:
 Papers and research Writings, with each output listed once. Update it with the website's
-[profile sync command](https://github.com/latentpaths/website/blob/main/src/content/PUBLISHING.md#sync-github-profiles),
+[Sync](https://github.com/latentpaths/website/blob/main/src/content/PUBLISHING.md#sync-github-profiles),
 then review, commit, and push this repository. Keep the masthead and introduction
 authored here; keep project descriptions and destinations in the website sources.
 
